@@ -19,7 +19,6 @@ TP-Exploration-Pretraitement-Donnees/
 ├── figures/
 ├── src/
 ├── report/
-└── README.md
 ```
 
 
@@ -33,12 +32,6 @@ TP-Exploration-Pretraitement-Donnees/
 - Prince (FAMD)
 ```
 
-## 🚀 Exécution
-
-```bash
-pip install -r requirements.txt
-python src/main.py
-```
 📊 Résultats
 Les figures générées se trouvent dans le dossier figures/.
 
